@@ -1,0 +1,9 @@
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\bin\Debug\TopicVisual.exe.config
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\bin\Debug\TopicVisual.exe
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\bin\Debug\TopicVisual.pdb
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\obj\Debug\TopicVisual.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\obj\Debug\TopicVisual.Properties.Resources.resources
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\obj\Debug\TopicVisual.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\obj\Debug\TopicVisual.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\obj\Debug\TopicVisual.exe
+C:\Users\benja\source\repos\TopicVisual\TopicVisual\obj\Debug\TopicVisual.pdb
